@@ -14,3 +14,14 @@ To enhance **community safety, engagement, and responsiveness** by enabling fast
 
 - **Anonymous Incident Reporting**: No sign-up required. Submit reports securely and anonymously.
 - **Offline Support**: Works in low-connectivity areas with auto-sync when online.
+
+---
+
+## Team Members & Roles
+
+| GitHub Handle | Name                  | Role                |
+|---------------|-----------------------|---------------------|
+| @ST10267383   | Javier Pena Gonzalez  | Frontend Developer  |
+| @ST10293351   | Karabo Latakgomo      | QA Tester           |
+| @ST10223720   | Sandile Ndukula       | Project Manager     |
+| @ST10405022   | Fungho Baloyi         | Backend Developer   |
